@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package-lock files
+package-lock.json
